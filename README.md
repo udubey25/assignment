@@ -1,4 +1,4 @@
-# kpmg_assignment
+# assignment
 
 the repository contains the following files ofr each challenge
 
